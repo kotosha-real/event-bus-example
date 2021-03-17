@@ -1,24 +1,18 @@
-# event-bus-example
+# EventBus technique example
+
+This repo's only purpose is to show how to implement EventBus design pattern with Vue
 
 ## Project setup
+
+Install dependencies with
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+and have fun
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
